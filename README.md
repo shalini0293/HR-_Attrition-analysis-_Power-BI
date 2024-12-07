@@ -25,7 +25,9 @@ Correlation between salary brackets and attrition.
 **Attrition by Tenure:**
 Analysis of attrition trends based on length of service.
 
-**Dashboard Link**
-HR Analytics Dashboard – Visual representation of attrition insights.
+### **Dashboard Link**
+
+[**HR Analytics Dashboard**](https://github.com/shalini0293/HR-_Attrition-analysis-_Power-BI/blob/main/HR%20Analytics.pdf) – Visual representation of attrition insights.
+
 
 
